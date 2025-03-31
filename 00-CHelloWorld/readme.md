@@ -1,5 +1,5 @@
-#Sintaxis y Semántica de los Lenguajes
+# Sintaxis y Semántica de los Lenguajes
 Curso: K2002\
 Año: 2025\
-Legajo: \
-Alumn: Gomez Caterina Libertad\
+Legajo: 220.825-8\
+Alumn: Gomez Caterina Libertad
