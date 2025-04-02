@@ -5,6 +5,6 @@ Legajo: 220.825-8\
 Alumn: Gomez Caterina Libertad
 
 ## Resolucion
-Compilador seleccionado:GCC \
-Version del compilador: 14.2.0\
-Versión de C: \
+Compilador seleccionado: GCC \
+Version del compilador: 6.3.0\
+Versión de C: 11
