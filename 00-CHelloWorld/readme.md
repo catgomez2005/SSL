@@ -7,7 +7,7 @@ Alumna: Gomez Caterina Libertad
 ## TP 0: "Hello, World!" en C
 Compilador seleccionado: GCC\
 Version del compilador: 6.3.0\
-Versión de C: 11\
+Versión de C: 11
 
 ## Verificacion de la version de C
 Para verificar la funcion de C utilizada ejecute el siguiente programa:
